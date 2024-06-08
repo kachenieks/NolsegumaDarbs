@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/JautajumuScena.unity
+    guid: 1591eb277a4700c4d87bdbf1ab0743c4
+  - enabled: 1
+    path: Assets/Scenes/Question_Scene.unity
+    guid: 3f56c13d6296e8049887d8073cbbd118
   m_configObjects: {}
