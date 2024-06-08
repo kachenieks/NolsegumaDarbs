@@ -28,12 +28,12 @@ public class QuestionHandler : MonoBehaviour
     private int[] points;
     private void Start()
     {
-        // retrieve necessary data from questionholder about every question
+        
         question_id = Convert.ToInt32(questionHolder.transform.GetChild(0).gameObject.name);
         question_amount = questionHolder.transform.childCount;
         question = questionHolder.transform.GetChild(question_id-1).gameObject.GetComponent<Question>();
         Debug.Log(question_id);
-        // set first question
+        
         points = new int[question_amount];
         refreshQuestion();
     }
@@ -121,7 +121,7 @@ public class QuestionHandler : MonoBehaviour
         {
             totalPoints += pt;
         }
-        endScreen.transform.Find("Points").gameObject.GetComponent<TMP_Text>().text = totalPoints+" points!";
+        endScreen.transform.Find("Points").gameObject.GetComponent<TMP_Text>().text = totalPoints+"/10 punktiem!";
     }
     public void PrintArray<T>(T[] array)
     {
