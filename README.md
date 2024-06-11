@@ -1,6 +1,13 @@
 # Tests Unity dzinī par GameObject.
 ### Darba autore: Katrīna Blažkova 2PT
 
+# Prezentācija: 
+https://www.canva.com/design/DAGHQGWzP2s/wkMSLP4a0ASQ1FjObARJHg/edit?utm_content=DAGHQGWzP2s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# Informatīvais materiāls: 
+https://www.canva.com/design/DAGH1WqXyVI/Rc8690G2rU28IuFpOt44ew/edit?utm_content=DAGH1WqXyVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 Darba uzdevumi: 
 - [x] Galvenās izvēlnes izveide
 - [x] Jautājumu scēnas izveide
